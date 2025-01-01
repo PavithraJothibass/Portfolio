@@ -22,19 +22,14 @@ A dynamic and responsive website for a restaurant, built using HTML, CSS, JavaSc
 ### 2. [College Placement Management System](https://project-check-eight.vercel.app/)
 A full-stack application to streamline the college placement process. Features include job listings, student profiles, interview scheduling, and recruiter/student communication.
 
-## 📄 Resume
-You can download my resume from [this link](#) (or attach your resume if you want to share it via GitHub).
-
 ## 🏅 Certifications
 1. Full Stack Development - GUVI Technologies IIT Madras
-2. Domain Advisory Certification
-3. Corporate Certification
-4. JavaScript Fundamentals - Coursera
-5. React Development - Udemy
-6. MongoDB Essentials - MongoDB University
-7. SQL for Data Science - Coursera
-8. Node.js - freeCodeCamp
-9. API Development with Express.js - Udemy
+2. JavaScript Fundamentals - GUVI Technologies IIT Madras
+3. React Development - GUVI Technologies IIT Madras
+4. MongoDB Essentials - GUVI Technologies IIT Madras
+5. SQL for Data Science - GUVI Technologies IIT Madras
+6. Node.js - GUVI Technologies IIT Madras
+7. API Development with Express.js - GUVI Technologies IIT Madras
 
 ## 🔗 Contact Me
 - **Email**: [pavithrajothi2002@gmail.com](mailto:pavithrajothi2002@gmail.com)
