@@ -13,7 +13,6 @@ Welcome to the portfolio of **Pavithra Jothibass**, a passionate **Full Stack De
 - **SQL**: Relational database management for structured data.
 - **Bootstrap**: Front-end framework for responsive web designs.
 - **API**: Building and consuming RESTful APIs.
-- **Figma**: UI/UX design for web applications.
 
 ## 💻 Projects
 
@@ -22,9 +21,6 @@ A dynamic and responsive website for a restaurant, built using HTML, CSS, JavaSc
 
 ### 2. [College Placement Management System](https://project-check-eight.vercel.app/)
 A full-stack application to streamline the college placement process. Features include job listings, student profiles, interview scheduling, and recruiter/student communication.
-
-### 3. [File System Task](https://filesystem-qvb6.onrender.com/)
-A web-based application that simulates file system operations like file creation, editing, and deletion.
 
 ## 📄 Resume
 You can download my resume from [this link](#) (or attach your resume if you want to share it via GitHub).
@@ -45,13 +41,6 @@ You can download my resume from [this link](#) (or attach your resume if you wan
 - **Phone**: [6381709770](tel:6381709770)
 - **LinkedIn**: [Pavithra Jothibass](https://www.linkedin.com/in/pavithraj21/)
 - **GitHub**: [Pavithra Jothibass](https://github.com/PavithraJothibass)
-
-## 📑 Technologies Used
-- **Frontend**: HTML, CSS, JavaScript, React.js, Bootstrap
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB, SQL
-- **Design**: Figma
-- **API**: RESTful APIs
 
 ## 📝 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
